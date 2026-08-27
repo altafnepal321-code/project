@@ -1,0 +1,6 @@
+streamlit>=1.37.0
+supabase>=2.7.0
+python-dotenv>=1.0.0
+pandas>=2.2.0
+qrcode>=7.3
+Pillow>=10.0.0
